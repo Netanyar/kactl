@@ -66,7 +66,7 @@
 \contentsline {subsection}{\texttt {FastFourierTransform.h}\hspace {0.2em}}{8}{section.4.4}%
 \contentsline {subsection}{\texttt {FastFourierTransformMod.h}\hspace {0.2em}}{8}{lstnumber.4.18.35}%
 \contentsline {subsection}{\texttt {NumberTheoreticTransform.h}\hspace {0.2em}}{8}{lstnumber.4.19.22}%
-\contentsline {subsection}{\texttt {FastSubsetTransform.h}\hspace {0.2em}}{8}{lstnumber.4.20.33}%
+\contentsline {subsection}{\texttt {FastSubsetTransform.h}\hspace {0.2em}}{8}{lstnumber.4.20.35}%
 \contentsline {chapter}{\numberline {5}Number theory}{9}{chapter.5}%
 \ttl@stoptoc {chapters@4}
 \ttl@starttoc {chapters@5}
@@ -125,8 +125,8 @@
 \contentsline {section}{\numberline {7.2}Network flow}{12}{section.7.2}%
 \contentsline {subsection}{\texttt {PushRelabel.h}\hspace {0.2em}}{12}{section.7.2}%
 \contentsline {subsection}{\texttt {MinCostMaxFlow.h}\hspace {0.2em}}{12}{lstnumber.7.3.48}%
-\contentsline {subsection}{\texttt {EdmondsKarp.h}\hspace {0.2em}}{12}{lstnumber.7.4.81}%
-\contentsline {subsection}{\texttt {Dinic.h}\hspace {0.2em}}{13}{lstnumber.7.5.35}%
+\contentsline {subsection}{\texttt {EdmondsKarp.h}\hspace {0.2em}}{12}{lstnumber.7.4.79}%
+\contentsline {subsection}{\texttt {Dinic.h}\hspace {0.2em}}{13}{lstnumber.7.5.36}%
 \contentsline {subsection}{\texttt {MinCut.h}\hspace {0.2em}}{13}{lstnumber.7.6.42}%
 \contentsline {subsection}{\texttt {GlobalMinCut.h}\hspace {0.2em}}{13}{lstnumber.7.7.1}%
 \contentsline {subsection}{\texttt {GomoryHu.h}\hspace {0.2em}}{13}{lstnumber.7.8.21}%
